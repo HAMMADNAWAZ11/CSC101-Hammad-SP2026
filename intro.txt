@@ -10,3 +10,5 @@ I want to build my career in the IT field.
 It improves my thinking and creativity.
 Programming skills are important in today’s world.
 I believe it will help me achieve my goals.
+I am learning Python basics in CSC101.
+I want to improve my programming skills step by step.
